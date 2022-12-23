@@ -76,6 +76,48 @@ const desktopModeProps = {
     "img_Flex": {
       "callbacks": {}
     },
+    "trusted_flx": {
+      "callbacks": {}
+    },
+    "trusted_div": {
+      "callbacks": {}
+    },
+    "trusted_logo_flx": {
+      "callbacks": {}
+    },
+    "Flex27": {
+      "callbacks": {}
+    },
+    "services_flx": {
+      "callbacks": {}
+    },
+    "header_holder": {
+      "callbacks": {}
+    },
+    "service_header": {
+      "callbacks": {}
+    },
+    "title_div": {
+      "callbacks": {}
+    },
+    "container_flx": {
+      "callbacks": {}
+    },
+    "Div17": {
+      "callbacks": {}
+    },
+    "Div20": {
+      "callbacks": {}
+    },
+    "Div18": {
+      "callbacks": {}
+    },
+    "Div21": {
+      "callbacks": {}
+    },
+    "Div19": {
+      "callbacks": {}
+    },
     "Image7": {
       "custom": {
         "alt": "No preview available",
@@ -263,6 +305,241 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/profile.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "ispsum1": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logo_ipsum.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "ipsum2": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logo_ipsum2.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "ipsum4": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logo_ipsum4.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "ipsum3": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logo_ipsum3.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox23": {
+      "custom": {
+        "text": "Trusted by"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "header_txt": {
+      "custom": {
+        "text": "S E R V I C E S"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox25": {
+      "custom": {
+        "text": " one product at a time."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox26": {
+      "custom": {
+        "text": "Design that solves problems,"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "icon1": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icon1.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox32": {
+      "custom": {
+        "text": "What I can do for you"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox33": {
+      "custom": {
+        "text": "Faster, better products that your"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox34": {
+      "custom": {
+        "text": "users love. Here's all the services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox35": {
+      "custom": {
+        "text": "I provide:"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "icon2": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icon2.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox36": {
+      "custom": {
+        "text": "Applications I'm fluent in"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox37": {
+      "custom": {
+        "text": "Every designer needs the right tools"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox38": {
+      "custom": {
+        "text": "to do the perfect job. Thankfully, I'm"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox39": {
+      "custom": {
+        "text": "multilingual."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "icon3": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icon3.svg"
       },
       "callbacks": {
         "onClick": [

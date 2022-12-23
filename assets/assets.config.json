@@ -7,5 +7,26 @@
   },
   "profile.jpeg": {
     "mime": "image/jpeg"
+  },
+  "logo_ipsum.png": {
+    "mime": "image/png"
+  },
+  "logo_ipsum2.png": {
+    "mime": "image/png"
+  },
+  "logo_ipsum3.png": {
+    "mime": "image/png"
+  },
+  "logo_ipsum4.png": {
+    "mime": "image/png"
+  },
+  "icon1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "icon2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "icon3.svg": {
+    "mime": "image/svg+xml"
   }
 }
