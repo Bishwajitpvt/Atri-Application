@@ -1,1 +1,156 @@
-
+.p-Home.navbar {
+display: flex;
+justify-content: center;
+}
+.p-Home.navbar_fxb {
+display: flex;
+justify-content: space-between;
+padding-top: 38px;
+margin-left: 130px;
+margin-right: 130px;
+align-items: stretch;
+width: 90%;
+column-gap: ;
+}
+.p-Home.Flex16 {
+display: flex;
+}
+.p-Home.Flex17 {
+display: inline-flex;
+justify-content: flex-start;
+align-items: center;
+column-gap: 30px;
+row-gap: ;
+padding-bottom: 10px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 17px;
+}
+.p-Home.Flex19 {
+display: flex;
+column-gap: 8px;
+}
+.p-Home.main_fxb {
+display: flex;
+justify-content: space-between;
+margin-left: 130px;
+margin-right: 130px;
+padding-top: 70px;
+padding-bottom: 20px;
+align-items: stretch;
+}
+.p-Home.text_Flex {
+display: flex;
+padding-top: 100px;
+padding-bottom: 100px;
+margin-top: -50px;
+justify-content: flex-start;
+}
+.p-Home.h1_div {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 76px;
+align-self: flex-start;
+}
+.p-Home.detail_holder {
+margin-top: 25px;
+margin-bottom: 40px;
+padding-right: 50px;
+font-family: IBM Plex Sans;
+font-weight: ;
+align-self: center;
+}
+.p-Home.btnAndText_flx {
+display: flex;
+justify-content: flex-start;
+align-items: center;
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 18px;
+column-gap: 25px;
+}
+.p-Home.Flex24 {
+display: flex;
+align-items: center;
+column-gap: 8px;
+}
+.p-Home.img_Flex {
+display: flex;
+}
+.p-Home.Image7 {
+padding-left: 0px;
+margin-left: ;
+margin-right: ;
+padding-top: ;
+padding-bottom: 13px;
+}
+.p-Home.about {
+;
+}
+.p-Home.service {
+;
+}
+.p-Home.proj {
+;
+}
+.p-Home.blog {
+;
+}
+.p-Home.book {
+;
+}
+.p-Home.Image8 {
+;
+}
+.p-Home.h1_header {
+;
+}
+.p-Home.h1_div2 {
+;
+}
+.p-Home.h1_div3 {
+;
+}
+.p-Home.detail_txt {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 22px;
+background-color: ;
+color: #666666;
+}
+.p-Home.TextBox21 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 22px;
+color: #666666;
+}
+.p-Home.book_btn {
+color: #fff;
+background-color: #000000;
+padding-top: 20px;
+padding-left: 30px;
+padding-bottom: 20px;
+padding-right: 30px;
+font-size: 18px;
+border-radius: 6px;
+outline: none;
+font-weight: 500;
+text-align: center;
+border-width: 0px;
+border-style: none;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+font-family: IBM Plex Sans;
+}
+.p-Home.dwn_cv {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 18px;
+}
+.p-Home.arrow {
+;
+}
+.p-Home.Image9 {
+;
+}

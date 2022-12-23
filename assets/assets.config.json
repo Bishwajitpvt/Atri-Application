@@ -1,1 +1,11 @@
-{}
+{
+  "header70.svg": {
+    "mime": "image/svg+xml"
+  },
+  "arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "profile.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
