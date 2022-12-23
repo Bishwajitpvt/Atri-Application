@@ -103,19 +103,76 @@ const desktopModeProps = {
     "container_flx": {
       "callbacks": {}
     },
-    "Div17": {
+    "cont1_flx": {
       "callbacks": {}
     },
-    "Div20": {
+    "icon_div": {
       "callbacks": {}
     },
-    "Div18": {
+    "head_div": {
       "callbacks": {}
     },
-    "Div21": {
+    "desc_div": {
       "callbacks": {}
     },
-    "Div19": {
+    "bulletPoint_div": {
+      "callbacks": {}
+    },
+    "Flex53": {
+      "callbacks": {}
+    },
+    "Flex59": {
+      "callbacks": {}
+    },
+    "Flex60": {
+      "callbacks": {}
+    },
+    "cont2_flx": {
+      "callbacks": {}
+    },
+    "icon2_div": {
+      "callbacks": {}
+    },
+    "head2_div": {
+      "callbacks": {}
+    },
+    "desc2_div": {
+      "callbacks": {}
+    },
+    "bulletPoint2_div": {
+      "callbacks": {}
+    },
+    "Flex61": {
+      "callbacks": {}
+    },
+    "Flex62": {
+      "callbacks": {}
+    },
+    "Flex63": {
+      "callbacks": {}
+    },
+    "cont3_flx": {
+      "callbacks": {}
+    },
+    "icon3_div": {
+      "callbacks": {}
+    },
+    "head3_div": {
+      "callbacks": {}
+    },
+    "desc3_div": {
+      "callbacks": {}
+    },
+    "bulletPoint3_div": {
+      "callbacks": {}
+    },
+    "Flex65": {
+      "callbacks": {}
+    },
+    "Flex67": {
+      "callbacks": {}
+    },
+    "Flex69": {
       "callbacks": {}
     },
     "Image7": {
@@ -427,7 +484,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox32": {
+    "TextBox74": {
       "custom": {
         "text": "What I can do for you"
       },
@@ -439,7 +496,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox33": {
+    "TextBox75": {
       "custom": {
         "text": "Faster, better products that your"
       },
@@ -451,7 +508,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox34": {
+    "TextBox76": {
       "custom": {
         "text": "users love. Here's all the services"
       },
@@ -463,7 +520,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox35": {
+    "TextBox77": {
       "custom": {
         "text": "I provide:"
       },
@@ -475,7 +532,79 @@ const desktopModeProps = {
         ]
       }
     },
-    "icon2": {
+    "TextBox78": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox79": {
+      "custom": {
+        "text": "Front-end Development"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox81": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox82": {
+      "custom": {
+        "text": "Web and Mobile App Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox83": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox84": {
+      "custom": {
+        "text": "Design Strategy"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image24": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/icon2.svg"
@@ -488,7 +617,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox36": {
+    "TextBox85": {
       "custom": {
         "text": "Applications I'm fluent in"
       },
@@ -500,7 +629,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox37": {
+    "TextBox86": {
       "custom": {
         "text": "Every designer needs the right tools"
       },
@@ -512,7 +641,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox38": {
+    "TextBox87": {
       "custom": {
         "text": "to do the perfect job. Thankfully, I'm"
       },
@@ -524,9 +653,81 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox39": {
+    "TextBox88": {
       "custom": {
         "text": "multilingual."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox89": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox90": {
+      "custom": {
+        "text": "Figma"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox91": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox92": {
+      "custom": {
+        "text": "Webflow"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox93": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox94": {
+      "custom": {
+        "text": "Sketch"
       },
       "callbacks": {
         "onClick": [
@@ -540,6 +741,126 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/icon3.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox95": {
+      "custom": {
+        "text": "What you can expect"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox96": {
+      "custom": {
+        "text": "and usable."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox98": {
+      "custom": {
+        "text": "I design products that are more"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox99": {
+      "custom": {
+        "text": "than pretty. I make them shippable"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox100": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox101": {
+      "custom": {
+        "text": "Efficient and maintainable"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox102": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox103": {
+      "custom": {
+        "text": "Device and user friendly"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox104": {
+      "custom": {
+        "text": "•"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox105": {
+      "custom": {
+        "text": "Clean and functional"
       },
       "callbacks": {
         "onClick": [
