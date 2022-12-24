@@ -43,5 +43,8 @@
   },
   "slid5.png": {
     "mime": "image/png"
+  },
+  "arrow_white.svg": {
+    "mime": "image/svg+xml"
   }
 }

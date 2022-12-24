@@ -220,6 +220,39 @@ const desktopModeProps = {
     "Flex84": {
       "callbacks": {}
     },
+    "btn_flx": {
+      "callbacks": {}
+    },
+    "Flex89": {
+      "callbacks": {}
+    },
+    "Flex90": {
+      "callbacks": {}
+    },
+    "blog_holder_div": {
+      "callbacks": {}
+    },
+    "blog_flx": {
+      "callbacks": {}
+    },
+    "left_div": {
+      "callbacks": {}
+    },
+    "Flex94": {
+      "callbacks": {}
+    },
+    "right_div": {
+      "callbacks": {}
+    },
+    "div1": {
+      "callbacks": {}
+    },
+    "Flex95": {
+      "callbacks": {}
+    },
+    "Flex96": {
+      "callbacks": {}
+    },
     "Image7": {
       "custom": {
         "alt": "No preview available",
@@ -1140,6 +1173,176 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button5": {
+      "custom": {
+        "text": "<"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button6": {
+      "custom": {
+        "text": ">"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox119": {
+      "custom": {
+        "text": "B L O G S"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox120": {
+      "custom": {
+        "text": "Latest Blogs"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox121": {
+      "custom": {
+        "text": "View all"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image49": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow_white.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox123": {
+      "custom": {
+        "text": "Design tips for designers, that cover"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox124": {
+      "custom": {
+        "text": "everything you need"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox129": {
+      "custom": {
+        "text": " "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox125": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image50": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow_white.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox126": {
+      "custom": {
+        "text": "April 16, 2021"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox127": {
+      "custom": {
+        "text": "."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox128": {
+      "custom": {
+        "text": "6 mins"
       },
       "callbacks": {
         "onClick": [
