@@ -28,5 +28,20 @@
   },
   "icon3.svg": {
     "mime": "image/svg+xml"
+  },
+  "slid1.png": {
+    "mime": "image/png"
+  },
+  "slid2.png": {
+    "mime": "image/png"
+  },
+  "slid3.png": {
+    "mime": "image/png"
+  },
+  "slid4.png": {
+    "mime": "image/png"
+  },
+  "slid5.png": {
+    "mime": "image/png"
   }
 }

@@ -88,6 +88,18 @@ const desktopModeProps = {
     "Flex27": {
       "callbacks": {}
     },
+    "projectHead_flex": {
+      "callbacks": {}
+    },
+    "txt_div": {
+      "callbacks": {}
+    },
+    "Div44": {
+      "callbacks": {}
+    },
+    "btn_div": {
+      "callbacks": {}
+    },
     "services_flx": {
       "callbacks": {}
     },
@@ -173,6 +185,39 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex69": {
+      "callbacks": {}
+    },
+    "slider_div": {
+      "callbacks": {}
+    },
+    "slider_flex": {
+      "callbacks": {}
+    },
+    "Div63": {
+      "callbacks": {}
+    },
+    "Projtxt_div": {
+      "callbacks": {}
+    },
+    "Flex82": {
+      "callbacks": {}
+    },
+    "Div64": {
+      "callbacks": {}
+    },
+    "Div67": {
+      "callbacks": {}
+    },
+    "Flex83": {
+      "callbacks": {}
+    },
+    "Div65": {
+      "callbacks": {}
+    },
+    "Div68": {
+      "callbacks": {}
+    },
+    "Flex84": {
       "callbacks": {}
     },
     "Image7": {
@@ -426,6 +471,54 @@ const desktopModeProps = {
     "TextBox23": {
       "custom": {
         "text": "Trusted by"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox107": {
+      "custom": {
+        "text": "P R O J E C T S"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox108": {
+      "custom": {
+        "text": "I bring results."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox109": {
+      "custom": {
+        "text": "My clients are proof."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button4": {
+      "custom": {
+        "text": "View all projects"
       },
       "callbacks": {
         "onClick": [
@@ -861,6 +954,192 @@ const desktopModeProps = {
     "TextBox105": {
       "custom": {
         "text": "Clean and functional"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image43": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/slid1.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox110": {
+      "custom": {
+        "text": "B r a n d i n g"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox111": {
+      "custom": {
+        "text": "Soulful Rebrand"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox112": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image44": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image45": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/slid2.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox113": {
+      "custom": {
+        "text": "P r o d u c t D e s i g n"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox114": {
+      "custom": {
+        "text": "Datadash Product design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox115": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image46": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image47": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/slid3.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox116": {
+      "custom": {
+        "text": "W e b D e s i g n"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox117": {
+      "custom": {
+        "text": "Maize Website Design "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox118": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image48": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow.svg"
       },
       "callbacks": {
         "onClick": [

@@ -1,9 +1,11 @@
 {
-  "Div": 40,
-  "Flex": 69,
-  "Image": 25,
-  "TextBox": 105,
-  "Button": 2,
+  "Div": 70,
+  "Flex": 85,
+  "Image": 48,
+  "TextBox": 118,
+  "Button": 4,
   "Radio": 1,
-  "Accordion": 1
+  "Accordion": 1,
+  "Carousel": 7,
+  "Slider": 2
 }
