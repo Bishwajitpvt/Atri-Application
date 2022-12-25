@@ -46,5 +46,17 @@
   },
   "arrow_white.svg": {
     "mime": "image/svg+xml"
+  },
+  "p4.png": {
+    "mime": "image/png"
+  },
+  "p1.png": {
+    "mime": "image/png"
+  },
+  "p2.png": {
+    "mime": "image/png"
+  },
+  "p3.png": {
+    "mime": "image/png"
   }
 }
