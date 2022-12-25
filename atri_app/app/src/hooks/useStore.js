@@ -310,6 +310,27 @@ const desktopModeProps = {
     "Div87": {
       "callbacks": {}
     },
+    "testimonial_div": {
+      "callbacks": {}
+    },
+    "testi_flx": {
+      "callbacks": {}
+    },
+    "Div94": {
+      "callbacks": {}
+    },
+    "Div95": {
+      "callbacks": {}
+    },
+    "Flex123": {
+      "callbacks": {}
+    },
+    "Div96": {
+      "callbacks": {}
+    },
+    "Flex124": {
+      "callbacks": {}
+    },
     "Image7": {
       "custom": {
         "alt": "No preview available",
@@ -1763,7 +1784,7 @@ const desktopModeProps = {
     },
     "TextBox159": {
       "custom": {
-        "text": "P r o d u c t D e s i g n e r "
+        "text": "P R O D U C T D E S I G N E R"
       },
       "callbacks": {
         "onClick": [
@@ -1864,6 +1885,152 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/p4.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox173": {
+      "custom": {
+        "text": "T E S T I M O N I A L S"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox174": {
+      "custom": {
+        "text": "Word on the street"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image66": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/604788d804dfe4ec1de7bb97_image-1-compressed-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image67": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/quotes.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox175": {
+      "custom": {
+        "text": "Jade helped us build a software so"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox176": {
+      "custom": {
+        "text": "intuitive that it didn't need a"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox177": {
+      "custom": {
+        "text": "walkthrough. He solved complex"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox178": {
+      "custom": {
+        "text": "problems with brilliant design."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox179": {
+      "custom": {
+        "text": "John Frankin"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox180": {
+      "custom": {
+        "text": "Founder, Double Bunch"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button7": {
+      "custom": {
+        "text": "<"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button8": {
+      "custom": {
+        "text": ">"
       },
       "callbacks": {
         "onClick": [

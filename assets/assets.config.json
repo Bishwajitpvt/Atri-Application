@@ -58,5 +58,20 @@
   },
   "p3.png": {
     "mime": "image/png"
+  },
+  "books.png": {
+    "mime": "image/png"
+  },
+  "uparrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "testi.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "604788d804dfe4ec1de7bb97_image-1-compressed-p-500.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "quotes.svg": {
+    "mime": "image/svg+xml"
   }
 }
