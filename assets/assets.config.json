@@ -73,5 +73,11 @@
   },
   "quotes.svg": {
     "mime": "image/svg+xml"
+  },
+  "school-bag.png": {
+    "mime": "image/png"
+  },
+  "stack-of-books.png": {
+    "mime": "image/png"
   }
 }
