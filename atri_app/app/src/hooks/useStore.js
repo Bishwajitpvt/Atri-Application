@@ -331,6 +331,24 @@ const desktopModeProps = {
     "Flex124": {
       "callbacks": {}
     },
+    "edu_and_work_flx": {
+      "callbacks": {}
+    },
+    "leftew_div": {
+      "callbacks": {}
+    },
+    "Flex126": {
+      "callbacks": {}
+    },
+    "Div99": {
+      "callbacks": {}
+    },
+    "Flex127": {
+      "callbacks": {}
+    },
+    "Flex128": {
+      "callbacks": {}
+    },
     "Image7": {
       "custom": {
         "alt": "No preview available",
@@ -2031,6 +2049,95 @@ const desktopModeProps = {
     "Button8": {
       "custom": {
         "text": ">"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "rightew_div": {
+      "callbacks": {}
+    },
+    "TextBox185": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image68": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/stack-of-books.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox181": {
+      "custom": {
+        "text": "Education"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox182": {
+      "custom": {
+        "text": "Stanford University"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image69": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/uparrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox183": {
+      "custom": {
+        "text": "MSc (Human Computer Interaction)"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox184": {
+      "custom": {
+        "text": "• 2013-2015"
       },
       "callbacks": {
         "onClick": [
