@@ -349,6 +349,123 @@ const desktopModeProps = {
     "Flex128": {
       "callbacks": {}
     },
+    "Div100": {
+      "callbacks": {}
+    },
+    "Flex129": {
+      "callbacks": {}
+    },
+    "Flex130": {
+      "callbacks": {}
+    },
+    "Div101": {
+      "callbacks": {}
+    },
+    "Flex131": {
+      "callbacks": {}
+    },
+    "Flex132": {
+      "callbacks": {}
+    },
+    "rightew_div": {
+      "callbacks": {}
+    },
+    "Flex133": {
+      "callbacks": {}
+    },
+    "Flex137": {
+      "callbacks": {}
+    },
+    "Div109": {
+      "callbacks": {}
+    },
+    "Div110": {
+      "callbacks": {}
+    },
+    "Flex139": {
+      "callbacks": {}
+    },
+    "Flex140": {
+      "callbacks": {}
+    },
+    "Flex143": {
+      "callbacks": {}
+    },
+    "Div111": {
+      "callbacks": {}
+    },
+    "Flex141": {
+      "callbacks": {}
+    },
+    "Flex142": {
+      "callbacks": {}
+    },
+    "Div112": {
+      "callbacks": {}
+    },
+    "Flex149": {
+      "callbacks": {}
+    },
+    "Div115": {
+      "callbacks": {}
+    },
+    "Div116": {
+      "callbacks": {}
+    },
+    "Flex147": {
+      "callbacks": {}
+    },
+    "Flex148": {
+      "callbacks": {}
+    },
+    "faq_flx": {
+      "callbacks": {}
+    },
+    "Div118": {
+      "callbacks": {}
+    },
+    "Flex155": {
+      "callbacks": {}
+    },
+    "qn_flx": {
+      "callbacks": {}
+    },
+    "left_qn_flx": {
+      "callbacks": {}
+    },
+    "Div119": {
+      "callbacks": {}
+    },
+    "Flex159": {
+      "callbacks": {}
+    },
+    "Flex163": {
+      "callbacks": {}
+    },
+    "Flex164": {
+      "callbacks": {}
+    },
+    "Flex165": {
+      "callbacks": {}
+    },
+    "right_qn_flx": {
+      "callbacks": {}
+    },
+    "Div122": {
+      "callbacks": {}
+    },
+    "Flex169": {
+      "callbacks": {}
+    },
+    "Flex170": {
+      "callbacks": {}
+    },
+    "Flex171": {
+      "callbacks": {}
+    },
+    "Flex172": {
+      "callbacks": {}
+    },
     "Image7": {
       "custom": {
         "alt": "No preview available",
@@ -2058,10 +2175,31 @@ const desktopModeProps = {
         ]
       }
     },
-    "rightew_div": {
-      "callbacks": {}
+    "TextBox195": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
     },
-    "TextBox185": {
+    "TextBox208": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox209": {
       "custom": {
         "text": ""
       },
@@ -2135,9 +2273,674 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox184": {
+    "TextBox206": {
       "custom": {
-        "text": "• 2013-2015"
+        "text": "• 2013-2014"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox188": {
+      "custom": {
+        "text": "MIT Summer School"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image70": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/uparrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox189": {
+      "custom": {
+        "text": "UX Training Bootcamp"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox190": {
+      "custom": {
+        "text": "• 2013-2014"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox191": {
+      "custom": {
+        "text": "California State University"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image71": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/uparrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox192": {
+      "custom": {
+        "text": "BSc in Software Engineering"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox193": {
+      "custom": {
+        "text": "• 2009-2012"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox207": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox216": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox220": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image72": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/school-bag.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox196": {
+      "custom": {
+        "text": "Work Experience"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image73": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icon4.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox203": {
+      "custom": {
+        "text": "SpaceFleet"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image74": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/uparrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox204": {
+      "custom": {
+        "text": "Senior Product Designer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox205": {
+      "custom": {
+        "text": "• April 2019 - Current"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox210": {
+      "custom": {
+        "text": "• April 2016 - May 2017"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox211": {
+      "custom": {
+        "text": "Information Architect"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image75": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/uparrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox212": {
+      "custom": {
+        "text": "MusicMash"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image76": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icon5.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image80": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icon6.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox217": {
+      "custom": {
+        "text": "Kingdom"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image79": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/uparrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox218": {
+      "custom": {
+        "text": "UI Designer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox219": {
+      "custom": {
+        "text": "• April 2016 - May 2017"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox224": {
+      "custom": {
+        "text": "Frequently asked questions"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox223": {
+      "custom": {
+        "text": "F A Q"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox227": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox235": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox236": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox237": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox225": {
+      "custom": {
+        "text": "What type of projects do you take on?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image81": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/downarrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image85": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/downarrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox232": {
+      "custom": {
+        "text": "What is your hourly rate?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image86": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/downarrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox233": {
+      "custom": {
+        "text": "What time-zone do you work in?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image87": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/downarrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox234": {
+      "custom": {
+        "text": "What is the typical timeline for a project?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox246": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox247": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox248": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox249": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox242": {
+      "custom": {
+        "text": "What if I need help after the project is complete?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image91": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/downarrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox243": {
+      "custom": {
+        "text": "What metrics do you use to measure success?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image92": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/downarrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox244": {
+      "custom": {
+        "text": "What does your design process look like?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image93": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/downarrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image94": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/downarrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox245": {
+      "custom": {
+        "text": "What type of projects do you take on?"
       },
       "callbacks": {
         "onClick": [

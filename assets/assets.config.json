@@ -79,5 +79,17 @@
   },
   "stack-of-books.png": {
     "mime": "image/png"
+  },
+  "icon4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "icon5.svg": {
+    "mime": "image/svg+xml"
+  },
+  "icon6.svg": {
+    "mime": "image/svg+xml"
+  },
+  "downarrow.svg": {
+    "mime": "image/svg+xml"
   }
 }
