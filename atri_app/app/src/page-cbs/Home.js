@@ -236,8 +236,8 @@ export function useImage9Cb() {
 }), [])
 	return { onClick }
 }
-export function useh1_headerCb() {
-	const onClick = useCallback(callbackFactory("h1_header", "Home", "/", "onClick", 
+export function useh1HeaderCb() {
+	const onClick = useCallback(callbackFactory("h1Header", "Home", "/", "onClick", 
 			{
   "handlers": [
     {

@@ -585,7 +585,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "h1_header": {
+    "h1Header": {
       "custom": {
         "text": "I design products "
       },
@@ -623,7 +623,7 @@ const desktopModeProps = {
     },
     "detail_txt": {
       "custom": {
-        "text": "Hi! I’m Jake, a product designer based in Berlin. I create "
+        "text": "Hi! I’m Jit, a product designer based in Berlin. I create "
       },
       "callbacks": {
         "onClick": [
