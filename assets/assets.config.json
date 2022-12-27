@@ -91,5 +91,11 @@
   },
   "downarrow.svg": {
     "mime": "image/svg+xml"
+  },
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "message.svg": {
+    "mime": "image/svg+xml"
   }
 }

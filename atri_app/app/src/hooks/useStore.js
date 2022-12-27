@@ -466,6 +466,39 @@ const desktopModeProps = {
     "Flex172": {
       "callbacks": {}
     },
+    "footer_div": {
+      "callbacks": {}
+    },
+    "Div125": {
+      "callbacks": {}
+    },
+    "Div124": {
+      "callbacks": {}
+    },
+    "Flex173": {
+      "callbacks": {}
+    },
+    "Div126": {
+      "callbacks": {}
+    },
+    "Flex175": {
+      "callbacks": {}
+    },
+    "Flex174": {
+      "callbacks": {}
+    },
+    "Div127": {
+      "callbacks": {}
+    },
+    "Div130": {
+      "callbacks": {}
+    },
+    "Div131": {
+      "callbacks": {}
+    },
+    "Flex176": {
+      "callbacks": {}
+    },
     "Image7": {
       "custom": {
         "alt": "No preview available",
@@ -2941,6 +2974,236 @@ const desktopModeProps = {
     "TextBox245": {
       "custom": {
         "text": "What type of projects do you take on?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox250": {
+      "custom": {
+        "text": "Ready to make something kickass?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox251": {
+      "custom": {
+        "text": "Let's get on a call."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox253": {
+      "custom": {
+        "text": "4353 Delaware Avenue, San Francisco, USA"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image95": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image96": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/message.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox255": {
+      "custom": {
+        "text": "hi@thefolio.com"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox256": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox257": {
+      "custom": {
+        "text": "Contact"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox258": {
+      "custom": {
+        "text": "Dribbble"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox259": {
+      "custom": {
+        "text": "Instagram"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox260": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox261": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox262": {
+      "custom": {
+        "text": "Twitter"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox263": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox264": {
+      "custom": {
+        "text": "Experience"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox269": {
+      "custom": {
+        "text": "© All rights reserved. "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox270": {
+      "custom": {
+        "text": "Conversionflow"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox271": {
+      "custom": {
+        "text": ". Powered by "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox272": {
+      "custom": {
+        "text": "Webflow /Image License Info/ Instructions /Changelog/ Style Guide"
       },
       "callbacks": {
         "onClick": [
